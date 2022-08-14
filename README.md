@@ -1,4 +1,4 @@
-#Slider
+# Slider
 ___
 
 This slider is created to serve as an option for future development of sliders in web applications or websites. Development of this slider involved the use of __HTML, CSS, and JS capabilities__. 
